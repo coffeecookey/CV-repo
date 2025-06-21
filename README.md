@@ -8,9 +8,9 @@ This is my attempt at a simple facial recognition program, created using openCV.
 
 ## Project Structure
 
-Facial Recognition -
-├── face-recognition-mytake.py
-├── haarcascade_frontalface_default.xml
-├── haarcascade_eye.xml
-├── tempCodeRunnerFile.py
+* Facial Recognition -
+* * face-recognition-mytake.py
+* * haarcascade_frontalface_default.xml
+* * haarcascade_eye.xml
+* * tempCodeRunnerFile.py
 
